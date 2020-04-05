@@ -32,7 +32,7 @@ av_showmodal = function() {
 	// Question Content
 	var content_heading = $('<h2>Você tem 18 anos ou mais?</h2>');
 	var content_buttons = $('<nav><ul><li><a href="#nothing" class="av_btn av_go" rel="yes">Yes</a></li><li><a href="#nothing" class="av_btn av_no" rel="no">No</a></li></nav>');
-	var content_text = $('<p>You must verify that you are 21 years of age or older to enter this site.</p>');
+	var content_text = $('<p>Este vídeo pode ser impróprio para alguns usuários.</p>');
 
 	// Regret Content
 	var regret_heading = $('<h2>We\'re Sorry!</h2>');
