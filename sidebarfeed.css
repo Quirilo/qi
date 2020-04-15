@@ -1,0 +1,14 @@
+#main-sidebar .feed-widget-header,#main-sidebar .widget h2{
+    font-weight:700;
+    letter-spacing:1px;
+    color:#0a110d;
+    -ms-box-shadow:0 3px 7px rgba(0,0,0,.07);
+    -o-box-shadow:0 3px 7px rgba(0,0,0,.07);
+    -webkit-box-shadow:0 3px 7px rgba(0,0,0,.07);
+    box-shadow:0 3px 7px rgba(0,0,0,.07);
+    padding:15px 20px;
+    margin:0;
+    border-bottom:0px solid #eee;
+    z-index:2;
+    position:relative
+}
