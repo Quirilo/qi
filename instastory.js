@@ -6,7 +6,7 @@
             get         : "",
             type        : "",
             imageSize   : 150,
-            limit       : 6,
+            limit       : 12,
             link        : true,
             template    : ""
         }, userSettings);
