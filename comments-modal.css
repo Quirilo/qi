@@ -103,7 +103,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-	background: #FDFDF6;
+	background: #FFFFFF;
 }
 
 /* Inline code */
