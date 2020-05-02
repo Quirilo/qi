@@ -812,14 +812,14 @@ img.ug-sepia-effect{
 	width:50px;
 	height:55px;
 	background-repeat:no-repeat;
-	background-image:url('../images/lightbox-arrow-left.png');
+	background-image:url('https://2.bp.blogspot.com/-IBjLntCgEA0/Xq2MWv6LlSI/AAAAAAAANo0/VGUq9PpRcvs057E0MCVWL0uh8Le2DCTRQCLcBGAsYHQ/s1600/lightbox-arrow-left.png');
 	background-position:0px 0px;
 	z-index:3;
 	cursor:pointer;
 }
 
 .ug-lightbox .ug-lightbox-arrow-right{
-	background-image:url('../images/lightbox-arrow-right.png');
+	background-image:url('https://1.bp.blogspot.com/-AN-oXcQsyzM/Xq2MWl4FblI/AAAAAAAANow/_GuLWERzXCwz0TKMKI9VafFnWukF1NiRwCLcBGAsYHQ/s1600/lightbox-arrow-right.png');
 }
 
 .ug-lightbox .ug-lightbox-button-close{
@@ -827,7 +827,7 @@ img.ug-sepia-effect{
 	width:36px;
 	height:36px;
 	background-repeat:no-repeat;
-	background-image:url('../images/lightbox-icon-close.png');
+	background-image:url('https://2.bp.blogspot.com/-35XV_lHGlkI/Xq2MXsn6WpI/AAAAAAAANo4/nHFcm9EMO2ITAqYdIPvWsumQ3V0l0M0AACLcBGAsYHQ/s1600/lightbox-icon-close.png');
 	background-position:0px 0px;
 	z-index:4;
 	cursor:pointer;
